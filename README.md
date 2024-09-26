@@ -13,11 +13,11 @@ Data-driven Decision Making: In a data-driven world, the potential to harness in
 Innovation: AI, with its continuous advancements, presents opportunities for groundbreaking innovations. Being part of this transformative journey excites me, pushing me to stay abreast of the latest developments in the field.
 
 🌐 Education and Experience
-🎓 BSc in Computer Science
+🎓 BSc in Information Technology
 🚀 Recently completed an data science course
 💻 Skills
-Programming Languages: Python, PHP
-Databases: MySQL, PgSQL
+Programming Languages: Python
+Databases: MySQL.
 Data Science: Machine Learning, Data Preprocessing, Data Visualization, NLP
 Libraries/Frameworks:
 NumPy
